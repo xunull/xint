@@ -1,0 +1,22 @@
+{
+  "name": "xint",
+  "version": "0.0.1",
+  "description": "init some language project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xunull/xint.git"
+  },
+  "keywords": [
+    "init"
+  ],
+  "author": "xunull",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xunull/xint/issues"
+  },
+  "homepage": "https://github.com/xunull/xint#readme"
+}
